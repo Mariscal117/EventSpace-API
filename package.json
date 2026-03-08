@@ -1,0 +1,12 @@
+{
+  "name": "eventspace-api",
+  "version": "1.0.0",
+  "description": "API REST con datos de prueba para EventSpace",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
